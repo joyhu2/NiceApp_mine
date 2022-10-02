@@ -1,0 +1,32 @@
+<template>
+	<view class="user">
+		个人中心
+		<view class="user-header">
+			<view>头像 </view>
+			<view>昵称</view>
+			<view>账号</view>
+			<view>签名</view>
+		</view>
+		<view class="user-content">
+			<view>动态</view>
+		</view>
+		<view class="logout">t退出登录</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+
+			}
+		},
+		methods: {
+
+		}
+	}
+</script>
+
+<style>
+
+</style>
